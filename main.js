@@ -1,6 +1,6 @@
 
 var swiper = new Swiper(".mySwiper", {
-  spaceBetween: 30,
+  spaceBetween: 20,
   centeredSlides: true,
   slidesPerView: 3,
   // effect: "cube",
